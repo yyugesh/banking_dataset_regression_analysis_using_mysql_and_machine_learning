@@ -125,7 +125,7 @@ Jupyter Notebook, VS Code, or PyCharm, among others are the popular code editors
 - **Train-Test Split**: Ensures unbiased model evaluation.
 ## Screenshots
 
-### 1. Pre-processing Data Analysis
+### 1. Database
 ![Database Screenshot](Snapshot/Database snapshot.jpg)
 
 ### 2. Pre-processing Data Analysis
@@ -185,7 +185,7 @@ Jupyter Notebook, VS Code, or PyCharm, among others are the popular code editors
 
 ![Prediction Result 17](Snapshot/Figure_37.png)
 
-![Prediction Result 18](SSnapshot/Figure_38.png)
+![Prediction Result 18](Snapshot/Figure_38.png)
 
 
 ### 5. Model Evaluation Comparison Output
